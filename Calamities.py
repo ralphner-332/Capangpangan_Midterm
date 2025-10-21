@@ -1,0 +1,1 @@
+print(f"There are atleast 300 calamities appear globally each year")
